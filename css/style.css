@@ -1,5 +1,6 @@
 body {
     font-family: sans-serif;
+    background-color: black;
 }
 div {
     background-color: black;
@@ -13,4 +14,7 @@ h2 {
 img {
     height: 200px;
 
+}
+.sensorHeading {
+    color:chartreuse;
 }
